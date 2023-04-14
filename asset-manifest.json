@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gaole/static/css/main.00eec75c.css",
-    "main.js": "/gaole/static/js/main.c350ea93.js",
+    "main.js": "/gaole/static/js/main.eab30e32.js",
     "static/js/27.d474272c.chunk.js": "/gaole/static/js/27.d474272c.chunk.js",
     "static/media/op1.mp3": "/gaole/static/media/op1.b536fd400b0c46d5d1c8.mp3",
     "static/media/64.png": "/gaole/static/media/64.be97ac9eafc753d4e36d.png",
@@ -103,6 +103,6 @@
   },
   "entrypoints": [
     "static/css/main.00eec75c.css",
-    "static/js/main.c350ea93.js"
+    "static/js/main.eab30e32.js"
   ]
 }
