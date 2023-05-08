@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/gaole/static/css/main.00eec75c.css",
-    "main.js": "/gaole/static/js/main.a1e56741.js",
+    "main.js": "/gaole/static/js/main.dee8be5e.js",
     "static/js/27.d474272c.chunk.js": "/gaole/static/js/27.d474272c.chunk.js",
     "static/media/op1.mp3": "/gaole/static/media/op1.b536fd400b0c46d5d1c8.mp3",
+    "static/media/master_ball.png": "/gaole/static/media/master_ball.a013452448b1a8dfd10e.png",
     "static/media/64.png": "/gaole/static/media/64.be97ac9eafc753d4e36d.png",
     "static/media/63.png": "/gaole/static/media/63.009bb5650650e7e163ad.png",
     "static/media/66.png": "/gaole/static/media/66.ec7baaf93be49767b99e.png",
@@ -77,7 +78,6 @@
     "static/media/5.png": "/gaole/static/media/5.e022c16014b8f9bdf6dd.png",
     "static/media/15.png": "/gaole/static/media/15.f469a16a0670e14125d0.png",
     "static/media/26.png": "/gaole/static/media/26.f99431c9a8629986af58.png",
-    "static/media/pikachu.png": "/gaole/static/media/pikachu.a291565a710f7a0f10fa.png",
     "static/media/balls.jpg": "/gaole/static/media/balls.e137442706d28e289533.jpg",
     "static/media/bag.png": "/gaole/static/media/bag.963712d88f0882861fa8.png",
     "static/media/logo.png": "/gaole/static/media/logo.21cb7324efcfc5777083.png",
@@ -103,6 +103,6 @@
   },
   "entrypoints": [
     "static/css/main.00eec75c.css",
-    "static/js/main.a1e56741.js"
+    "static/js/main.dee8be5e.js"
   ]
 }
